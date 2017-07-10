@@ -6,6 +6,8 @@ By using SFTP you can easily change, browse and edit files on your Raspberry Pi.
 
 ## FileZilla
 
+Sudo apt-get install filezilla
+or
 Download the latest FileZilla Client version for your operating system from [filezilla-project.org](https://filezilla-project.org/).
 
 Launch FileZilla and go to `File > Site manager`.
